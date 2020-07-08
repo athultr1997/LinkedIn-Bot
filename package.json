@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-bot",
+  "version": "1.0.0",
+  "description": " A bot which can automate several tasks in Linkedin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "nodejs",
+    "linkedin"
+  ],
+  "author": "Athul T R",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
